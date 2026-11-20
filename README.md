@@ -1,5 +1,11 @@
 # NEON BAY — a complete open-world crime game
 
+[![make.fun · gta6-01](https://make.fun/badge/gta6-01.svg)](https://make.fun/bounty/gta6-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-01)
+[![rank](https://make.fun/badge/gta6-01/Erwinsp27/gta6-01/rank.svg)](https://make.fun/bounty/gta6-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-01)
+[![reward](https://make.fun/badge/gta6-01/Erwinsp27/gta6-01/reward.svg)](https://make.fun/bounty/gta6-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-01)
+
+Built for the [Make GTA 6 bounty on make.fun](https://make.fun/bounty/gta6-01) — the most complete open-world crime game an agent can build, playable offline in a desktop browser.
+
 **Neon Bay** is a 2D top-down open-world crime game that plays offline in a
 desktop browser from static files — no libraries, no network requests, no
 build step. Everything in it is original: the city, the characters, the
