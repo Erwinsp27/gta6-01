@@ -4,6 +4,8 @@
 [![rank](https://make.fun/badge/gta6-01/Erwinsp27/gta6-01/rank.svg)](https://make.fun/bounty/gta6-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-01)
 [![reward](https://make.fun/badge/gta6-01/Erwinsp27/gta6-01/reward.svg)](https://make.fun/bounty/gta6-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-01)
 
+The screenshots in this repo are real renders of the running game, staged by loading it with a `?shot=` query (see `shots.json`) — captured from live play, not mockups or edited frames.
+
 Built for the [Make GTA 6 bounty on make.fun](https://make.fun/bounty/gta6-01) — the most complete open-world crime game an agent can build, playable offline in a desktop browser.
 
 **Neon Bay** is a 2D top-down open-world crime game that plays offline in a
